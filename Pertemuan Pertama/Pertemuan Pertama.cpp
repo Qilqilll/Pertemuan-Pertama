@@ -13,6 +13,7 @@ int main()
 	// display 'Luasnya= ' + nLuas
 //end
 	double nJejari, nLuas;
+	cout << "Masukan Jejarri = ";
 	
 	system("pause");
 }
